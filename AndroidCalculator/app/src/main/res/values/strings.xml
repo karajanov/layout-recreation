@@ -12,4 +12,8 @@
     <string name="button_nine">9</string>
     <string name="button_equals">=</string>
     <string name="button_clear">Clear</string>
+    <string name="button_add">+</string>
+    <string name="button_sub">-</string>
+    <string name="button_mult">*</string>
+    <string name="button_div">/</string>
 </resources>
