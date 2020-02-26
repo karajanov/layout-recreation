@@ -165,6 +165,7 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                     tempResult.setText(String.valueOf(c));
+                    result.setText("");
                 }
             }
         });
